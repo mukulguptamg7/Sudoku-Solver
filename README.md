@@ -1,1 +1,1 @@
-# Sudoku-Solver-Web-App
+# Sudoku-Solver
